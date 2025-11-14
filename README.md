@@ -4,10 +4,10 @@
 
 ## Integrantes del equipo - Ezequiel Ferrando
 
-## Carrera Tecnicatura Universitaria en Telecomunicaciones
+## Carrera - Tecnicatura Universitaria en Telecomunicaciones
 
-## Materia "PROGRAMACIÓN"
+## Materia - "PROGRAMACIÓN"
 
-## Programa Utilizado PseInt 
+## Programa - Utilizado PseInt 
 
 ## El TFI consiste en desarrolar 10 programas utilizando todas las herramientas del programa PseInt y lo aprendido en clase de los profesores durante este 2025
